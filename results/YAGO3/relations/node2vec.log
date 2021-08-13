@@ -1,0 +1,222 @@
+Wed, 04 Aug 2021 16:16:14 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 16:16:15 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 16:16:15 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 16:24:50 INFO     Classification report in ./results/YAGO3/relations/node2vec.csv
+
+Wed, 04 Aug 2021 16:24:50 INFO     ACC:0.6475833417772824
+Wed, 04 Aug 2021 16:24:50 INFO     F1-score micro:0.6475833417772824
+Wed, 04 Aug 2021 16:24:50 INFO     F1-score macro:0.6304550105607277
+Wed, 04 Aug 2021 16:24:50 INFO     F1-score weighted:0.6472806118410914
+Wed, 04 Aug 2021 16:24:57 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 16:24:58 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 16:24:58 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 16:35:02 INFO     Classification report in ./results/YAGO3/relations/TransE.csv
+
+Wed, 04 Aug 2021 16:35:03 INFO     ACC:0.9007329347789375
+Wed, 04 Aug 2021 16:35:03 INFO     F1-score micro:0.9007329347789375
+Wed, 04 Aug 2021 16:35:03 INFO     F1-score macro:0.9026817074606017
+Wed, 04 Aug 2021 16:35:03 INFO     F1-score weighted:0.9004386889462519
+Wed, 04 Aug 2021 16:35:11 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 16:35:12 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 16:35:12 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 16:44:19 INFO     Classification report in ./results/YAGO3/relations/ComplEx.csv
+
+Wed, 04 Aug 2021 16:44:20 INFO     ACC:0.7484378694227717
+Wed, 04 Aug 2021 16:44:20 INFO     F1-score micro:0.7484378694227717
+Wed, 04 Aug 2021 16:44:20 INFO     F1-score macro:0.7424851133651572
+Wed, 04 Aug 2021 16:44:20 INFO     F1-score weighted:0.7505049040482891
+Wed, 04 Aug 2021 16:44:29 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 16:44:30 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 16:44:30 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 16:52:31 INFO     Classification report in ./results/YAGO3/relations/RESCAL.csv
+
+Wed, 04 Aug 2021 16:52:32 INFO     ACC:0.8016347485391968
+Wed, 04 Aug 2021 16:52:32 INFO     F1-score micro:0.8016347485391968
+Wed, 04 Aug 2021 16:52:32 INFO     F1-score macro:0.8023743316772872
+Wed, 04 Aug 2021 16:52:32 INFO     F1-score weighted:0.8031073158215404
+Wed, 04 Aug 2021 16:52:39 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 16:52:40 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 16:52:40 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 17:01:08 INFO     Classification report in ./results/YAGO3/relations/DistMult.csv
+
+Wed, 04 Aug 2021 17:01:08 INFO     ACC:0.8236565677035836
+Wed, 04 Aug 2021 17:01:08 INFO     F1-score micro:0.8236565677035835
+Wed, 04 Aug 2021 17:01:08 INFO     F1-score macro:0.8176832837550447
+Wed, 04 Aug 2021 17:01:08 INFO     F1-score weighted:0.82402398633703
+Wed, 04 Aug 2021 17:01:15 INFO     
+0 -> ['rdf_type']
+1 -> ['yago_actedIn']
+2 -> ['yago_created']
+3 -> ['yago_dealsWith']
+4 -> ['yago_diedIn']
+5 -> ['yago_directed']
+6 -> ['yago_edited']
+7 -> ['yago_graduatedFrom']
+8 -> ['yago_happenedIn']
+9 -> ['yago_hasCapital']
+10 -> ['yago_hasChild']
+11 -> ['yago_hasGender']
+12 -> ['yago_hasMusicalRole']
+13 -> ['yago_hasWonPrize']
+14 -> ['yago_influences']
+15 -> ['yago_isAffiliatedTo']
+16 -> ['yago_isCitizenOf']
+17 -> ['yago_isConnectedTo']
+18 -> ['yago_isLocatedIn']
+19 -> ['yago_isMarriedTo']
+20 -> ['yago_isPoliticianOf']
+21 -> ['yago_livesIn']
+22 -> ['yago_participatedIn']
+23 -> ['yago_playsFor']
+24 -> ['yago_wasBornIn']
+25 -> ['yago_worksAt']
+26 -> ['yago_wroteMusicFor']
+
+Wed, 04 Aug 2021 17:01:16 INFO     Training set size: (118428, 200)
+Wed, 04 Aug 2021 17:01:16 INFO     Test set size: (29607, 200)
+Wed, 04 Aug 2021 17:08:40 INFO     Classification report in ./results/YAGO3/relations/RotatE.csv
+
+Wed, 04 Aug 2021 17:08:41 INFO     ACC:0.8211233829837539
+Wed, 04 Aug 2021 17:08:41 INFO     F1-score micro:0.8211233829837539
+Wed, 04 Aug 2021 17:08:41 INFO     F1-score macro:0.8169922511407317
+Wed, 04 Aug 2021 17:08:41 INFO     F1-score weighted:0.821162450081396

@@ -1,0 +1,36 @@
+Wed, 04 Aug 2021 15:58:04 INFO     Training set size: (159991, 200)
+Wed, 04 Aug 2021 15:58:04 INFO     Test set size: (39998, 200)
+Wed, 04 Aug 2021 15:58:46 INFO     Classification report in ./results/YAGO3/links/node2vec.csv
+
+Wed, 04 Aug 2021 15:58:46 INFO     ACC:0.8748437421871094
+Wed, 04 Aug 2021 15:58:46 INFO     F1-score:0.8700077901843677
+Wed, 04 Aug 2021 15:58:54 INFO     Training set size: (159997, 200)
+Wed, 04 Aug 2021 15:58:54 INFO     Test set size: (40000, 200)
+Wed, 04 Aug 2021 15:59:30 INFO     Classification report in ./results/YAGO3/links/TransE.csv
+
+Wed, 04 Aug 2021 15:59:30 INFO     ACC:0.862175
+Wed, 04 Aug 2021 15:59:30 INFO     F1-score:0.8657428828872707
+Wed, 04 Aug 2021 15:59:38 INFO     Training set size: (159992, 200)
+Wed, 04 Aug 2021 15:59:38 INFO     Test set size: (39999, 200)
+Wed, 04 Aug 2021 15:59:58 INFO     Classification report in ./results/YAGO3/links/ComplEx.csv
+
+Wed, 04 Aug 2021 15:59:58 INFO     ACC:0.8675966899172479
+Wed, 04 Aug 2021 15:59:58 INFO     F1-score:0.8642816872533442
+Wed, 04 Aug 2021 16:00:06 INFO     Training set size: (159995, 200)
+Wed, 04 Aug 2021 16:00:06 INFO     Test set size: (39999, 200)
+Wed, 04 Aug 2021 16:00:24 INFO     Classification report in ./results/YAGO3/links/RESCAL.csv
+
+Wed, 04 Aug 2021 16:00:25 INFO     ACC:0.841496037400935
+Wed, 04 Aug 2021 16:00:25 INFO     F1-score:0.8447448329904984
+Wed, 04 Aug 2021 16:00:32 INFO     Training set size: (159994, 200)
+Wed, 04 Aug 2021 16:00:32 INFO     Test set size: (39999, 200)
+Wed, 04 Aug 2021 16:00:59 INFO     Classification report in ./results/YAGO3/links/DistMult.csv
+
+Wed, 04 Aug 2021 16:01:00 INFO     ACC:0.8533213330333258
+Wed, 04 Aug 2021 16:01:00 INFO     F1-score:0.8537819314641745
+Wed, 04 Aug 2021 16:01:07 INFO     Training set size: (159990, 200)
+Wed, 04 Aug 2021 16:01:07 INFO     Test set size: (39998, 200)
+Wed, 04 Aug 2021 16:01:21 INFO     Classification report in ./results/YAGO3/links/RotatE.csv
+
+Wed, 04 Aug 2021 16:01:21 INFO     ACC:0.759437971898595
+Wed, 04 Aug 2021 16:01:21 INFO     F1-score:0.7632032288231532
