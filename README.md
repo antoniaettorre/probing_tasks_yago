@@ -13,15 +13,15 @@ The structure of the project is as follows:
 * **./graphs/YAGO3/** contains the subgraph used for the experiments extracted as described in the paper;
 * **./results/YAGO3/** contains the results presented in the paper;
 * **./datasets/YAGO3/** contains the file yago_types.csv to be used to train the classifier for the entity's type 
-and the directory gembs/ where the computed GEs for each model should be placed (See "Computing Graph Embeddings").
+and the directory **gembs/** where the computed GEs for each model should be placed (See "Computing Graph Embeddings").
 
 ## Reproducing the experiments
 To reproduce the experiments and obtain the results presented in the paper you need first to compute the 
-Graph Embeddings from the graph located in the ./graphs/YAGO3/ and place them in ./datasets/YAGO3/gembs/ 
+Graph Embeddings from the graph located in the **./graphs/YAGO3/** and place them in .**/datasets/YAGO3/gembs/** 
 (See "Computing Graph Embeddings") .
 To execute the scripts included in this project you will need a Python environment containing the packages list in 
-the file requirements.txt.
-Once your Python environment is ready, you can reproduce the experiments by executing the file main.py importing the 
+the file **requirements.txt**.
+Once your Python environment is ready, you can reproduce the experiments by executing the file **main.py** importing the 
 classifier you want to test. **main.py** will test all the GE models on the same probing task (based on the classifier 
 you imported), and output the results in the corresponding subdirectory of **./results/YAGO3/** .
 
